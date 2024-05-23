@@ -1,8 +1,21 @@
-# React + Vite
+# TechNative React Playground
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the React practise exercise from the TechNative Digital Full Stack Bootcamp. It covers:
+- Creating an app using Vite
+- Deploying it on Netlify
+- Creating suitable file structure
+- Creating JSX components
+- Routing
+- CSS Modules
 
-Currently, two official plugins are available:
+## Future Considerations
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I had a couple of weeks off at this point of the bootcamp for a friend's wedding, so I don't feel as confident as I'd like with this topic.  I'm aiming to come back to this to practise the following (in no particular order):
+
+- useState
+- Passing Props
+- useEffect
+- React Forms
+- useNavigate
+- Using Redux to create a slices and a store
+- Play more with CSS modules and their scoping
