@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Frodo",
+    "image": "/images/frodo.png"
+  },
+  {
+    "id": 2,
+    "title": "Sam",
+    "image": "/images/sam.png"
+  },
+  {
+    "id": 3,
+    "title": "Merry",
+    "image": "/images/merry.png"
+  },
+  {
+    "id": 4,
+    "title": "Pippin",
+    "image": "/images/pippin.png"
+  },
+  {
+    "id": 5,
+    "title": "Gandalf",
+    "image": "/images/gandalf.png"
+  },
+  {
+    "id": 6,
+    "title": "Aragorn",
+    "image": "/images/aragorn.png"
+  },
+  {
+    "id": 7,
+    "title": "Legolas",
+    "image": "/images/legolas.png"
+  },
+  {
+    "id": 8,
+    "title": "Gimli",
+    "image": "/images/gimli.png"
+  },
+  {
+    "id": 9,
+    "title": "Boromir",
+    "image": "/images/boromir.png"
+  }
+]
