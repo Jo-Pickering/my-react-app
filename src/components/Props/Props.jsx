@@ -1,10 +1,15 @@
 import XterList from "./xterList";
+import Search from "./search";
 import Characters from "./content.json";
+import { useState } from "react";
 
 function Props() {
+  const [search, setSearch] = useState("");
+
   return (
     <div>
-      <XterList xters={Characters} />
+      <Search input={search} setInput={setSearch} />
+      <XterList xters={Characters} filter={search} />
     </div>
   );
 }
