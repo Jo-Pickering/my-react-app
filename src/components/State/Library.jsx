@@ -15,7 +15,7 @@ function Library() {
 
   return (
     <div>
-      <h2>The Bookshelf</h2>
+      <h1>The Bookshelf</h1>
       <ul>
         {borrowedBooks.map((book, index) => (
           <li key={index}>
