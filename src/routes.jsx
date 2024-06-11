@@ -2,6 +2,7 @@ import Root from "./components/Root/Root";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import State from "./components/State/State";
+import Forms from "./components/Forms/Forms";
 
 const routes = [
   {
@@ -19,6 +20,10 @@ const routes = [
       {
         path: "state",
         element: <State />,
+      },
+      {
+        path: "forms",
+        element: <Forms />,
       },
     ],
   },
