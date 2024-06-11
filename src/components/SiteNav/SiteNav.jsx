@@ -9,6 +9,7 @@ function SiteNav() {
     { label: "State", url: "/state" },
     { label: "Forms", url: "/forms" },
     { label: "Effect", url: "/effect" },
+    { label: "Props and Filtering", url: "props" },
   ];
 
   return (
