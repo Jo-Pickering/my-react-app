@@ -21,6 +21,7 @@ function Counter() {
 
   return (
     <div>
+      <h1>Orc Kill Counter</h1>
       <h2>{currentCounter}</h2>
       <button onClick={raiseCounter}>Higher</button>
       <button onClick={lowerCounter}>Lower</button>
